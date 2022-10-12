@@ -1,0 +1,41 @@
+img{
+  display:block;
+  margin:10px auto;
+  width:200px;
+  padding: 15px 15px 15px 15px;
+}
+h1{
+  display:block;
+  margin:0px auto;
+  color: green;
+  width:20%;
+}
+p#prgf{
+  color:DodgerBlue;
+  font-family: sans-serif;
+}
+figure{
+  text-align: center;
+}
+p{
+  width: 300px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+button{
+  margin:0px auto;
+  text-align: center;
+  width:20%;
+  color:blue;
+  cursor:pointer;
+  padding:10px;
+  border:none;
+  -webkit-transition-duration:0.4s;
+  transition-duration:0.4s;
+  display:block;
+  background-color: green;
+}
+button:hover{
+  border-radius:20px;
+  color: rgb(80,0,90);
+}
